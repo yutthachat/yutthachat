@@ -1,7 +1,6 @@
 # Hello Everyone
 
-Hello everyone, I'm Yutthachat or Yu for short.
-However, to prevent confusion, I'm been called Mr. Yu, Yuyu, and Utah.
+Hello everyone, I'm Yutthachat.
 
 ## About Me 
 I'm interested in web development, automations, and anything having to do with technologies.
